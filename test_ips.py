@@ -4,7 +4,7 @@
  dans un autre fichier.
  Voici un exemple de code pour cela :"""
  
- import re
+import re
 
 # Fonction pour vérifier si une adresse IP est correcte
 def is_valid_ip(ip):
